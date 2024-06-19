@@ -294,7 +294,7 @@ export const socials = [
     id: "0",
     title: "Discord",
     iconUrl: discordBlack,
-    url: "#",
+    url: "https://discord.com/channels/@puravsaluja13",
   },
   {
     id: "1",
@@ -306,7 +306,7 @@ export const socials = [
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://instagram.com/puravsaluja13",
   },
   {
     id: "3",
