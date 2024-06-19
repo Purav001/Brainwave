@@ -292,32 +292,32 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Linkedin",
-    iconUrl: linkedin,
-    url: "www.linkedin.com/in/puravsaluja4",
-  },
-  {
-    id: "1",
-    title: "Instagram",
-    iconUrl: instagram,
-    url: "https://www.instagram.com/puravsaluja13?igsh=MTBzd2kwb3V0MmJ6Yw==",
-  },
-  {
-    id: "2",
     title: "Discord",
     iconUrl: discordBlack,
     url: "#",
   },
   {
-    id: "3",
+    id: "1",
     title: "Twitter",
     iconUrl: twitter,
     url: "#",
   },
   {
-    id: "4",
+    id: "2",
+    title: "Instagram",
+    iconUrl: instagram,
+    url: "#",
+  },
+  {
+    id: "3",
     title: "Telegram",
     iconUrl: telegram,
     url: "#",
-  }
+  },
+  {
+    id: "4",
+    title: "Facebook",
+    iconUrl: facebook,
+    url: "#",
+  },
 ];
